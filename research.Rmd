@@ -1,0 +1,33 @@
+---
+pagetitle: Juhyun Bae
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+$^*$ Graduate Student Coauthor
+
+------
+
+### Peer-reviewed Publications
+
+* __Bae, JH.__, & Choi, YJ$^*$. (2017). Causes and Consequences of Hanjin Shipping Bankruptcy: Dilemma of Developmental Liberalist Regime in Industrial Restructuring. _Journal of Governmental Studies_, 23(3), 193-227.[<a href = "https://kmbase.medric.or.kr/KMID/1124020160320020271" target="_blank">Journal Article</a>]
+
+
+* Choi, YJ., & __Bae, JH.__ (2016). Designing Future Social Security: Critical Review of Mid- to Long-term Social Security Planning. _Korean Social Security Studies_, 32(2), 271-299.[<a href = "https://kiss.kstudy.com/Detail/Ar?key=3568681" target="_blank">Journal Article</a>]
+  
+------
+
+### Working Papers
+
+* __Bae, JH.__,& Choi, YJ., & Hong, I. (Working paper). The Emerging Politics of Basic Income: Agenda-setting Dynamics in South Korea.
+
+------
+
+### Works in Progress
+
+* __Bae, JH.__ & Landgrave, M. Does Administrative Burden Truly Increase Supports on Social Program? The Roles of Contexts.
+
+* __Bae, JH.__ & Jung, YC. Spatial Inequality and the Role of Public Space: Lessons from COVID-19.
+
+* __Bae, JH.__ & Haselswerdt. The Inadequate Safety Net and Labor Market Inequality in the Gig Economy: Gig Workers’ Precarity, Policy Attitudes, and Political Participation
+

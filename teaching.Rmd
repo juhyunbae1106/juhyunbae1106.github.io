@@ -1,0 +1,47 @@
+---
+pagetitle: Juhyun Bae
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+
+### Teaching Experience
+<br>
+
+#### University of Missouri (Columbia, MO)
+* Research Methods and Inquiry in Public Affairs II, 2021 Fall - 2022 Fall. _(Graduate, Online)_
+  - Graduate Teaching Assistant
+  - Evaluation: "~"
+
+* Research Methods and Inquiry in Public Affairs I, 2021 Spring - 2023 Spring. _(Graduate, Online)_
+  - Graduate Teaching Assistant
+  - Evaluation: "~"
+  
+* The Public and Policy Change, 2020 Fall. _(Graduate, Online)_
+  - Graduate Teaching Assistant
+
+#### Yonsei University (Seoul, South Korea)
+
+* Modern Society and Public Administration, 2016 Fall, 2017 Fall _(Undergraduate, In-person)_
+  - Teaching Assistant
+
+* Comparative Public Policy, 2016 Spring _(Undergraduate, English-only class, In-person)_
+  - Teaching Assistant
+
+------
+
+### Guest Lecture
+
+* Politics of education: How education affects political participation and national identity in Chinese countries _(March, 2023)_
+  - Course name: Chinese Politics and Foreign Policy (University of Missouri)
+
+* Application of administrative record data _(May, 2019)_
+  - Course name: Quantitative Research Method (National Chengchi University)
+  
+  
+------
+
+### Workshop Speaker
+
+* R-Ladies Taipei _(January, 2019)_
+  - Topic: Application of government open data with geographic information systems (GIS)
