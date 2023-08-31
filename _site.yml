@@ -10,7 +10,7 @@ navbar:
     - text: "Teaching"
       href: teaching.html
     - text: "CV"
-      href: files/CV_JB 202302_vers.pdf
+      href: files/CV_JB 202308_vers.pdf
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
