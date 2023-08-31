@@ -8,40 +8,49 @@ pagetitle: Juhyun Bae
 ### Teaching Experience
 <br>
 
-#### University of Missouri (Columbia, MO)
-* Research Methods and Inquiry in Public Affairs II, 2021 Fall - 2022 Fall. _(Graduate, Online)_
-  - Graduate Teaching Assistant
-  - Evaluation: "~"
-
-* Research Methods and Inquiry in Public Affairs I, 2021 Spring - 2023 Spring. _(Graduate, Online)_
-  - Graduate Teaching Assistant
-  - Evaluation: "~"
-  
-* The Public and Policy Change, 2020 Fall. _(Graduate, Online)_
-  - Graduate Teaching Assistant
-
-#### Yonsei University (Seoul, South Korea)
-
-* Modern Society and Public Administration, 2016 Fall, 2017 Fall _(Undergraduate, In-person)_
-  - Teaching Assistant
-
-* Comparative Public Policy, 2016 Spring _(Undergraduate, English-only class, In-person)_
-  - Teaching Assistant
+#### Graduate Instructor
+* Spring 2024 __POLSC 4330: Public Policy Analysis__ _(undergraduate)_
 
 ------
 
-### Guest Lecture
+#### Lab Instructor
+* Fall 2023 __POLSC 3000W: Introduction to Political Research- Writing Intense__ _(undergraduate)_
 
-* Politics of education: How education affects political participation and national identity in Chinese countries _(March, 2023)_
-  - Course name: Chinese Politics and Foreign Policy (University of Missouri)
-
-* Application of administrative record data _(May, 2019)_
-  - Course name: Quantitative Research Method (National Chengchi University)
-  
-  
 ------
 
-### Workshop Speaker
+#### Teaching Assistant
+##### at the University of Missouri (Columbia, MO)
+* Spring, 2023 __PA 4710/7710: The Non-Profit and Voluntary Sector__ _(undergraduate and MPA)_
 
-* R-Ladies Taipei _(January, 2019)_
-  - Topic: Application of government open data with geographic information systems (GIS)
+* Spring, 2021 ~ Fall, 2022	__PA 8181-II: Research Methods and Inquiry in Public Affairs II__ _(MPA, online)_
+
+* Spring, 2021 __PA 8181-I: Research Methods and Inquiry in Public Affairs – Mid Career__ _(MPA, online)_
+
+* Fall, 2020	__PA 8210: Public Service and Democracy__ _(MPA)_
+
+##### at Yonsei University (Seoul, South Korea)
+* Fall, 2016 & Spring, 2017 __Modern Society and Public Administration__ _(undergraduate)_
+
+* Spring, 2016 __Comparative Public Policy__ _(undergraduate, English-only class)_
+
+------
+
+#### Guest Lecture
+##### at the University of Missouri (Columbia, MO)
+* March 2023 Topic: The Changing Labor Market and the Role of Public Policy __POLSC B4320: Public Policy__, _(asynchronous online class, undergraduate)_
+
+* Nov 2022	Topic: What are Administrative Burdens and Why Does the Government Have Them? __PA1000: Principles of Public Policy Administration__, _(undergraduate)_
+
+* Oct 2022	Topic: When and How to Use Interaction Terms __PA8181-II: Research Method and Inquiry in Public Affairs__, _(online, MPA)_
+
+------
+
+#### Method Workshop Speaker
+
+* June 2022 Topic: The Issues of TWFE Staggered DID and Stacking as the Solution, at TSGPA Women in Econometrics Group, University of Missouri 
+
+------
+
+#### Certificate of Teaching 
+* Fall 2022	Online Teaching Certificate, Office of eLearning at the University of Missouri
+

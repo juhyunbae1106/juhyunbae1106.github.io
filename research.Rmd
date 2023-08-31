@@ -10,24 +10,38 @@ $^*$ Graduate Student Coauthor
 
 ### Peer-reviewed Publications
 
-* __Bae, JH.__, & Choi, YJ$^*$. (2017). Causes and Consequences of Hanjin Shipping Bankruptcy: Dilemma of Developmental Liberalist Regime in Industrial Restructuring. _Journal of Governmental Studies_, 23(3), 193-227.[<a href = "https://kmbase.medric.or.kr/KMID/1124020160320020271" target="_blank">Journal Article</a>]
+* __Bae, J.__, & Choi, YJ. (2017). "Causes and Consequences of Hanjin Shipping Bankruptcy: Dilemma of Developmental Liberalist Regime in Industrial Restructuring." _Journal of Governmental Studies_, 23(3), 193-227.[<a href = "https://kmbase.medric.or.kr/KMID/1124020160320020271" target="_blank">Journal Article</a>]
 
 
-* Choi, YJ., & __Bae, JH.__ (2016). Designing Future Social Security: Critical Review of Mid- to Long-term Social Security Planning. _Korean Social Security Studies_, 32(2), 271-299.[<a href = "https://kiss.kstudy.com/Detail/Ar?key=3568681" target="_blank">Journal Article</a>]
+* Choi, YJ., & __Bae, J.__ (2016). "Designing Future Social Security: Critical Review of Mid- to Long-term Social Security Planning." _Korean Social Security Studies_, 32(2), 271-299.[<a href = "https://kiss.kstudy.com/Detail/Ar?key=3568681" target="_blank">Journal Article</a>]
   
 ------
 
 ### Working Papers
 
-* __Bae, JH.__,& Choi, YJ., & Hong, I. (Working paper). The Emerging Politics of Basic Income: Agenda-setting Dynamics in South Korea.
+* Hong, I.,& __Bae, J.__,& Choi, YJ. (Under Review). “The Unlikely Rise of Basic Income from Agenda Universe to Decision Agenda: How Policy Entrepreneurs Navigate Institutions.”
+
+* __Bae, J.__ & Jung, Y$^*$. (Under Review). “Spatial Inequality and the Role of Public Spaces: Lessons from COVID-19.”
+
+* __Bae, J.__ & Landgrave, M. (Working paper). “Does Context Matter?: Support for Administrative in Welfare Programs.”
+
+* __Bae, J.__ & Haselswerdt, J. (Dissertation Chapter). “The Divided Welfare State and Inadequate Safety Net in the Gig Economy: Evidence from an Original Survey of American Workers.”
+
+* __Bae, J.__ (Dissertation Chapter). “American Public Opinion Toward Gig Workers’ Welfare Deservingness: Evidence from Survey Experiment.”
+
+* __Bae, J.__ (Dissertation Chapter). “The Effects of Expanded Pandemic Unemployment Assistance on Labor Market Outsiders’ Financial and Mental Wellbeing: Evidence from Staggered DID and Triple-Difference.”
+
 
 ------
 
-### Works in Progress
+### Book Chapters and Other Research Reports
 
-* __Bae, JH.__ & Landgrave, M. Does Administrative Burden Truly Increase Supports on Social Program? The Roles of Contexts.
+* Kim, EJ., Choi, IH., Sun, BY., Sung, K., __Bae, J.__, Kim, SJ., & Yang, NJ. (2018) “A Study for the Re-establishment of Sustainable Care Policy(Ⅱ)”. Seoul: Korean Women’s Development Institute.
 
-* __Bae, JH.__ & Jung, YC. Spatial Inequality and the Role of Public Space: Lessons from COVID-19.
 
-* __Bae, JH.__ & Haselswerdt. The Inadequate Safety Net and Labor Market Inequality in the Gig Economy: Gig Workers’ Precarity, Policy Attitudes, and Political Participation
+* Kim, EJ., Choi, IH., Song, HJ., Bae, HJ., Choi, JH, __Bae, J.__, & Sung, K. (2018) “A Study on the Status of Sole-Parent Families”. Seoul: Korean Women’s Development Institute.
+
+* Choi, YJ., Jun, M$^*$, __Bae, J__, & Yoon, S$^*$ . (2018). “Ch.12. Why is Uncertainty Unequal without Government’s Precautionary Principle?: The Case of Toxic Humidifier Disinfectant.” In Moon, MJ.(eds), The Quality of Government and Life (pp.361-398).
+
+* Choi, YJ., Jun, M$^*$, __Bae, J__, & Yoon, S$^*$ . (2017). “Ch.10. Evidence-based Policy-making in an Uncertain World: The Case of the Nuclear Power Plant in Kori, South Korea.” In Moon, MJ.(eds), Case Studies: Public Management and Public Policy (pp.257-288)
 
