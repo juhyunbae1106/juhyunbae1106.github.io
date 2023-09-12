@@ -27,7 +27,7 @@ $^*$ Graduate Student Coauthor
 
 <div style="line-height:50%;"><br></div>
 
-* __Bae, J.__ (Dissertation Chapter). “American Public Opinion Toward Gig Workers’ Welfare Deservingness: Evidence from Survey Experiment.” [<a href = "files/Gig Deservingness_Bae.pdf" target="_blank">Manuscript</a>]
+* __Bae, J.__ (Dissertation Chapter). “American Public Opinion Toward Gig Workers’ Welfare Deservingness: Evidence from Survey Experiment.” [<a href = "files/Manuscript_Bae.pdf" target="_blank">Manuscript</a>]
 
 * __Bae, J.__ & Haselswerdt, J. (Dissertation Chapter). “The Divided Welfare State and Inadequate Safety Net in the Gig Economy: Evidence from an Original Survey of American Workers.”
 
