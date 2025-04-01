@@ -5,8 +5,18 @@ pagetitle: Juhyun Bae
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 
-### Teaching Experience
+### Teaching Experiences
 <br>
+
+#### Faculty at University of Texas - Rio Grande Valley
+
+*	Fall 2025 __PAFF 4300: Intro to Public Administration__ _(Undergraduate)_
+* Spring 2025	__POLS 6335: U.S. Economic Policy__ _(Graduate)_
+* Fall 2024	__POLS 2305: U.S. Federal Government and Politics__ _(Undergraduate)_
+*	Fall 2024, Fall 2025 __POLS 2470 Intro to Political Science Research__ _(Undergraduate)_
+
+
+------
 
 #### Graduate Instructor
 * Spring 2024 __POLSC 4330: Public Policy Analysis__ _(undergraduate)_ [<a href = "files/PA4430_PublicPolicyAnalysis_syllabus.pdf" target="_blank">Sample Syllabus</a>]
