@@ -20,11 +20,13 @@ $^*$ Graduate Student Coauthor
 
 ### Working Papers
 
-* __Bae, J.__ (R&R in Policy Studies Journal). “Unpacking Welfare Deservingness Theory: Evidence from Gig Workers’ Deservingness.” [<a href = "files/Manuscript_Bae.pdf" target="_blank">Manuscript</a>]  [<a href = "files/Deserving_Online Appendices.pdf" target="_blank">Online Appendix</a>]
+* __Bae, J.__ (_Revision Request and Resubmitted in Policy Studies Journal_). “Unpacking Welfare Deservingness Theory: Evidence from Gig Workers’ Deservingness.” [<a href = "files/Manuscript_Bae.pdf" target="_blank">Manuscript</a>]  [<a href = "files/Deserving_Online Appendices.pdf" target="_blank">Online Appendix</a>]
+
+* __Bae, J.__ & Haselswerdt, J. (_Revision Request from Perspectives on Politics_). “The Divided Welfare State and Inadequate Safety Net in the Gig Economy: Evidence from an Original Survey of American Workers.”
 
 <div style="line-height:50%;"><br></div>
 
-* __Bae, J.__ (Under Review). “The Effects of Expanded Pandemic Unemployment Assistance on Labor Market Outsiders’ Financial and Mental Wellbeing: Evidence from Staggered DID and Triple-Difference.”  [<a href = "files/UI_manuscript.pdf" target="_blank">Manuscript</a>]  [<a href = "files/Online Appendix_UI.pdf" target="_blank">Online Appendix</a>]
+* __Bae, J.__ (_Minor Revision Request from Risk Management and Insurance Review_). “The Effects of Expanded Pandemic Unemployment Assistance on Labor Market Outsiders’ Financial and Mental Wellbeing: Evidence from Staggered DID and Triple-Difference.”  [<a href = "files/UI_manuscript.pdf" target="_blank">Manuscript</a>]  [<a href = "files/Online Appendix_UI.pdf" target="_blank">Online Appendix</a>]
 <details> <summary><font size=2>Abstract</font size></summary>> <div style="line-height:100%;"><font size=2> During COVID-19, for the first time in the US's history of the Unemployment Insurance (UI) system, UI benefit was expanded even to non-standard workers who ordinally would not be eligible for benefits through the general UI system. Given the non-standard workers’ high level of insecurity and exclusion from the social security system as labor market outsiders, it is meaningful to investigate the effects of the generosity of UI benefits on their economic and emotional security. To estimate it, I analyze staggered difference-in-differences and triple-difference (DDD) models using the Housing Pulse Survey (HPS) data. I found that the early termination of the pandemic UI programs increases the financial and mental difficulties, especially the labor market outsiders undergo more difficulties than the labor market insiders. The DDD results present that withdrawing the UI benefits increases the financial difficulty of paying expenses for labor market outsiders. This paper sheds light on the original findings that the expanded eligibility helps alleviate economic setbacks and mental difficulty, especially, for labor market outsiders who have been excluded from the existing social insurance system. The finding implies that the existing policy blind spot to labor market outsiders could accelerate the precarity of labor market outsiders particularly under the unexpected crisis and labor market disruptions, and policy actions to protect them should be considered. </font size></div>
 </details>
 
@@ -36,8 +38,6 @@ $^*$ Graduate Student Coauthor
 <details><summary><font size=2>Abstract</font size></summary>> <div style="line-height:100%;"><font size=2> This study examines whether public spaces play a role in mitigating existing inequality, mainly how different types of public spaces reduce inequality particularly during the COVID-19. It is motivated by concerns that those with poor living conditions may suffer more due to limited access to public spaces during the pandemic, highlighting the potential of public spaces that extend the private spaces of the impoverished. Given that depression stems from spatial and socioeconomic backgrounds, this study uses depression as a proxy for inequality. Using survey and administrative data in South Korea, the findings indicate that accessibility to complete-public spaces such as parks and even cafés as semi-public spaces for a social mix reduce depression levels, whereas the accessibility to shopping centers as consumerism-based semi-public spaces increase depression. Given the increasing concern for future crises such as climate change, these findings suggest strategies of public spaces to mitigate spatial inequalities should be reconsidered.</font size></div></details>
 
 <div style="line-height:50%;"><br></div>
-
-* __Bae, J.__ & Haselswerdt, J. (Dissertation Chapter). “The Divided Welfare State and Inadequate Safety Net in the Gig Economy: Evidence from an Original Survey of American Workers.”
 
 <div style="line-height:50%;"><br></div>
 
